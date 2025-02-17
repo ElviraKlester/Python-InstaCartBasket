@@ -35,27 +35,27 @@ profiles? Consider the price of orders, the frequency of orders, the products
 customers are ordering, and anything else you can think of.
 
 ### Dataset (not uploaded to GitHub due to size limitations)
-●orders\
+●orders  
 
-● orders_products_pripor\
+● orders_products_pripor  
 
-● products\
+● products  
 
-● customers\
+● customers  
 
 ● departments
 
 ### Tools used for the Project
-Python and its libraries:\
-●  Pandas : for data analysis\
+Python and its libraries:  
+●  Pandas : for data analysis  
 
-● Numpy: for mathematical equations\
+● Numpy: for mathematical equations  
 
-● Seaborn: for data visulizations\
+● Seaborn: for data visulizations  
 
-● Matplotlib: for data visulizations\
+● Matplotlib: for data visulizations  
 
-● Scipy: for data equations\
+● Scipy: for data equations  
 
 ### Folders
 ● Project Management: Contains the project brief and related documentation.
